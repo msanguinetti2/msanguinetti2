@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Student in MSc Computer Engineering
+
 <!--
 **msanguinetti2/msanguinetti2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
